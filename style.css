@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+* {
+  font-family: Montserrat;
+  outline: none;
+  border: none;
+  color: #000;
+  text-decoration: none;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+	display: flex;
+
+	justify-content: space-between;
+
+  position: relative;
+  top: 20px;
+
+  width: 100%;
+  max-width: 1140px;
+  height: 80px;
+}
+
+
+.logo {
+  position: relative;
+  margin-left: 14px;
+
+  width: 80px;
+  height: 80px;
+}
+
+.kuller {
+  position: relative;
+  margin-right: 40px;
+	margin-top: 17px;
+
+  width: 111px;
+  height: 44px;
+
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 44px;
+}
+
+section {
+  position: relative;
+
+  width: 100%;
+  max-width: 1140px;
+}
+
+.lbar{
+ 	display: flex;
+
+	position: relative;
+ 	margin-top: 40px;
+
+ 	width: 100%;
+}
+
+.login {
+  display: block;
+
+  position: relative;
+
+  width: 100%;
+  height: 50px;
+  margin: 0 63px;
+
+  background: #FFFFFF;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 30px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.pbar {
+ 	display: flex;
+
+	position: relative;
+ 	margin-top: 25px;
+
+ 	width: 100%;
+}
+
+.password {
+	display: block;
+
+  position: relative;
+  margin: 0 63px;
+
+  width: 100%;
+  height: 50px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 30px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.sbar {
+ 	display: flex;
+
+	position: relative;
+ 	margin-top: 30px;	
+
+ 	width: 100%;
+}
+
+.submit {
+	display: block;
+
+  position: relative;
+  margin: 0 100px;
+
+  width: 100%;
+  height: 36px;
+
+ 	background: #0066CC;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+	border-radius: 30px;
+	color: #FFF;
+}
+
+.submit:hover {
+	background: #147ce5;
+}
+
+.fbox {
+ 	display: flex;
+
+	position: relative;
+ 	margin-top: 35px;	
+
+ 	width: 100%;
+}
+
+.meme1 {
+	position: relative;
+	margin: 0 40px;
+
+	width: 100%;
+}
+
+.sbox {
+ 	display: flex;
+
+	position: relative;
+ 	margin-top: 15px;	
+
+ 	width: 100%;
+}
+
+.meme2 {
+	position: relative;
+	margin: 0 40px;
+
+	width: 100%;
+}
+
+footer {
+	position: relative;
+
+	height: 20px;
+}
