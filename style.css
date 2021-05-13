@@ -154,7 +154,7 @@ section {
 	position: relative;
  	margin-top: 35px;	
 
- 	width: 100%;
+ 	width: 95%;
 }
 
 .meme1 {
@@ -166,11 +166,12 @@ section {
 
 .sbox {
  	display: flex;
+	justify-content: center;
 
 	position: relative;
  	margin-top: 15px;	
 
- 	width: 100%;
+ 	width: 95%;
 }
 
 .meme2 {
