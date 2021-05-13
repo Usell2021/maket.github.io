@@ -154,14 +154,14 @@ section {
 	position: relative;
  	margin-top: 35px;	
 
- 	width: 95%;
+ 	width: 100%;
 }
 
 .meme1 {
 	position: relative;
 	margin: 0 40px;
 
-	width: 100%;
+	width:95%;
 }
 
 .sbox {
