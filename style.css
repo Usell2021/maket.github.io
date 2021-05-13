@@ -149,6 +149,8 @@ section {
 .fbox {
  	display: flex;
 
+	justify-content: center;
+
 	position: relative;
  	margin-top: 35px;	
 
