@@ -78,9 +78,9 @@ section {
   margin: 0 63px;
 
   background: #FFFFFF;
-	border: 1px solid #000020;
-	box-sizing: border-box;
-	border-radius: 30px;
+  border: 1px solid #000020;
+  box-sizing: border-box;
+  border-radius: 30px;
   padding-left: 25px;
   padding-right: 25px;
 
@@ -133,7 +133,7 @@ section {
 	position: relative;
 	margin: 0 40px;
 
-	width: 100%;
+	width: 95%;
 }
 
 footer {
