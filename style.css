@@ -78,9 +78,10 @@ section {
   margin: 0 63px;
 
   background: #FFFFFF;
-  border: 1px solid #000020;
-  box-sizing: border-box;
+
+  box-shadow: 0px 0px 10px #000020;
   border-radius: 30px;
+
   padding-left: 25px;
   padding-right: 25px;
 
